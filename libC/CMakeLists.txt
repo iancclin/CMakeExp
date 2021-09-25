@@ -1,0 +1,1 @@
+add_library(libC libC.cpp)
